@@ -5,7 +5,7 @@ Explanation: 342 + 465 = 807.
 '''
 
 
-#链表结构, divmod(a, b) 返回余数和商
+#链表结构, divmod(a, b) 返回商和余数
 
 # Definition for singly-linked list.
 # class ListNode:
